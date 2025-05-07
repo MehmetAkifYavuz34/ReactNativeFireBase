@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520627472549",
+    "project_id": "fir-bb172",
+    "storage_bucket": "fir-bb172.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520627472549:android:59f30dffc0d54b2158254c",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpJyLHk8_r1Gz1smtxA1ZCTk0Ki5rf7Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
