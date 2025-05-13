@@ -1,7 +1,10 @@
 # React Native Firebase Contact List
 
-![Project Banner](https://github.com/user-attachments/assets/8f5fc97e-8adf-4975-bb65-9d313366c03e)
+
 https://github.com/user-attachments/assets/8f5fc97e-8adf-4975-bb65-9d313366c03e
+
+
+
 
 ## 📖 Project Description
 
